@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Market Terminal",
+  "description": "High-velocity institutional market terminal with real-time watchlists, professional candlestick charting, sector treemaps, and quick order execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
